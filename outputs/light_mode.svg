@@ -24,7 +24,7 @@ text, tspan {white-space: pre;}
   <tspan x="390"  y="52" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc">..............................................</tspan><tspan class="value">Windows</tspan>
   <tspan x="390"  y="74" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc">........................................</tspan><tspan class="value">Workstation</tspan>
   <tspan x="390"  y="96" class="cc">. </tspan><tspan class="key">Shell / Terminal</tspan>:<tspan class="cc">................</tspan><tspan class="value">bash, Powershell, VS Code</tspan>
-  <tspan x="390"  y="118" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc">......................</tspan><tspan class="value">26 years, 8 months, 29 days</tspan>
+  <tspan x="390"  y="118" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc">.......................</tspan><tspan class="value">26 years, 9 months, 0 days</tspan>
   <tspan x="390"  y="144" class="header">- Focus &amp; Stack</tspan><tspan class="cc"> -————————————————————————————————————————————-—</tspan>
   <tspan x="390"  y="166" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc">.......</tspan><tspan class="value">Business Analytics, Predictive ML, Data Viz</tspan>
   <tspan x="390"  y="188" class="cc">. </tspan><tspan class="key">Languages.Prog</tspan>:<tspan class="cc">..........................</tspan><tspan class="value">Python, SQL, R </tspan>
@@ -40,8 +40,8 @@ text, tspan {white-space: pre;}
   <tspan x="390"  y="416" class="cc">. </tspan><tspan class="key">Social</tspan>:<tspan class="cc">..............</tspan><tspan class="value">GitHub / LinkedIn: @prabhkirat-kaur</tspan>
   <tspan x="390"  y="442" class="header">- GitHub Stats</tspan><tspan class="cc"> -————————————————————————————————————————————-—</tspan>
   <tspan x="390"  y="464" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc">....</tspan><tspan class="value">8</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">13</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc">.......</tspan><tspan class="value">0</tspan>
-  <tspan x="390"  y="486" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc">......</tspan><tspan class="value">23</tspan>               | <tspan class="key">Followers</tspan>:<tspan class="cc">.......</tspan><tspan class="value">1</tspan>
-  <tspan x="390"  y="508" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc">....</tspan><tspan class="value">64,877</tspan> (<tspan class="addColor">76,445</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">11,568</tspan><tspan class="delColor">--</tspan>)</text>
+  <tspan x="390"  y="486" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc">......</tspan><tspan class="value">24</tspan>               | <tspan class="key">Followers</tspan>:<tspan class="cc">.......</tspan><tspan class="value">1</tspan>
+  <tspan x="390"  y="508" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc">....</tspan><tspan class="value">64,877</tspan> (<tspan class="addColor">76,451</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">11,574</tspan><tspan class="delColor">--</tspan>)</text>
   <g id="ansi-palette">
     <rect x="390" y="534" width="22" height="10" rx="2" fill="#24292f" />
     <rect x="417" y="534" width="22" height="10" rx="2" fill="#cf222e" />
