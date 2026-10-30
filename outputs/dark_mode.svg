@@ -24,7 +24,7 @@ text, tspan {white-space: pre;}
   <tspan x="390"  y="52" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc">..............................................</tspan><tspan class="value">Windows</tspan>
   <tspan x="390"  y="74" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc">........................................</tspan><tspan class="value">Workstation</tspan>
   <tspan x="390"  y="96" class="cc">. </tspan><tspan class="key">Shell / Terminal</tspan>:<tspan class="cc">................</tspan><tspan class="value">bash, Powershell, VS Code</tspan>
-  <tspan x="390"  y="118" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc">......................</tspan><tspan class="value">26 years, 9 months, 26 days</tspan>
+  <tspan x="390"  y="118" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc">......................</tspan><tspan class="value">26 years, 9 months, 27 days</tspan>
   <tspan x="390"  y="144" class="header">- Focus &amp; Stack</tspan><tspan class="cc"> -————————————————————————————————————————————-—</tspan>
   <tspan x="390"  y="166" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc">.......</tspan><tspan class="value">Business Analytics, Predictive ML, Data Viz</tspan>
   <tspan x="390"  y="188" class="cc">. </tspan><tspan class="key">Languages.Prog</tspan>:<tspan class="cc">..........................</tspan><tspan class="value">Python, SQL, R </tspan>
