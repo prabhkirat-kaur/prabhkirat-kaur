@@ -40,8 +40,8 @@ text, tspan {white-space: pre;}
   <tspan x="390"  y="416" class="cc">. </tspan><tspan class="key">Social</tspan>:<tspan class="cc">..............</tspan><tspan class="value">GitHub / LinkedIn: @prabhkirat-kaur</tspan>
   <tspan x="390"  y="442" class="header">- GitHub Stats</tspan><tspan class="cc"> -————————————————————————————————————————————-—</tspan>
   <tspan x="390"  y="464" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc">....</tspan><tspan class="value">8</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">13</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc">.......</tspan><tspan class="value">0</tspan>
-  <tspan x="390"  y="486" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc">......</tspan><tspan class="value">52</tspan>               | <tspan class="key">Followers</tspan>:<tspan class="cc">.......</tspan><tspan class="value">1</tspan>
-  <tspan x="390"  y="508" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc">....</tspan><tspan class="value">64,877</tspan> (<tspan class="addColor">76,615</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">11,738</tspan><tspan class="delColor">--</tspan>)</text>
+  <tspan x="390"  y="486" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc">......</tspan><tspan class="value">53</tspan>               | <tspan class="key">Followers</tspan>:<tspan class="cc">.......</tspan><tspan class="value">1</tspan>
+  <tspan x="390"  y="508" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc">....</tspan><tspan class="value">64,877</tspan> (<tspan class="addColor">76,621</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">11,744</tspan><tspan class="delColor">--</tspan>)</text>
   <g id="ansi-palette">
     <rect x="390" y="534" width="22" height="10" rx="2" fill="#484f58" />
     <rect x="417" y="534" width="22" height="10" rx="2" fill="#ff7b72" />
